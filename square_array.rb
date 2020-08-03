@@ -1,4 +1,4 @@
 
 def square_array(array)
-  puts 
+  puts array.collect 
 end
